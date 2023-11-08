@@ -13,48 +13,48 @@ assignees: ''
 **II. Necesidad de negocio: (Problema/Requerimiento a resolver)**
 
 
-III. Escenario To Be
+**III. Escenario To Be**
 
 
-IV. Pasos del Flujo básico
+**IV. Pasos del Flujo básico**
 
 
-V. Pasos de cada flujo alternativo
+**V. Pasos de cada flujo alternativo**
 
 
-VI. Propuesta funcional
+**VI. Propuesta funcional**
 
- 1. Funcionalidad Odoo
+ **1. Funcionalidad Odoo**
 
   ¿Existe, cuál? / No existe
 
 
- 2. Funcionalidad esperada
+ **2. Funcionalidad esperada**
 
 
-VII. Variabilidad
+**VII. Variabilidad**
 
-1. Almacenamiento información (Modelo, campos)
-
-
-2. Vistas
+**1. Almacenamiento información (Modelo, campos)**
 
 
-3. Reportes
+**2. Vistas**
 
 
-4. Menú
+**3. Reportes**
 
 
-5. Seguridad
+**4. Menú**
 
 
-6. Validaciones
+**5. Seguridad**
 
 
-VIII. Criterios de Aceptación
+**6. Validaciones**
 
 
-IX. Descripción Técnica
+**VIII. Criterios de Aceptación**
 
- Diseño técnico
+
+**IX. Descripción Técnica**
+
+ **Diseño técnico**
