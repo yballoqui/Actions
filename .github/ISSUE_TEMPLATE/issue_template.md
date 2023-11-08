@@ -1,6 +1,3 @@
-labels
-
-
 I. Objetivo:
 
 
