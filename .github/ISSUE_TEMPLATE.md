@@ -1,6 +1,6 @@
 ---
 name: 
-about: Crear issue para desarrollo
+about: Desarrollo
 title: ''
 labels: dev
 assignees: ''
@@ -18,7 +18,7 @@ assignees: ''
 **IV. Pasos del Flujo básico**
 
 
-V. Pasos de cada flujo alternativo
+**V. Pasos de cada flujo alternativo**
 
 
 **VI. Propuesta funcional**
