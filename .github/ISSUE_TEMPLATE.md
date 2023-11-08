@@ -1,10 +1,10 @@
-I. Objetivo:
+##I. Objetivo:
 
 
-II. Necesidad de negocio: (Problema/Requerimiento a resolver)
+##II. Necesidad de negocio: (Problema/Requerimiento a resolver)
 
 
-III. Escenario To Be
+##III. Escenario To Be
 
 
 IV. Pasos del Flujo básico
