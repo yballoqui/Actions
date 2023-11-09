@@ -1,15 +1,3 @@
-
-## What does this PR do?
-
-
-## Jira ticket number?
-
-## Checklist before merging
-- [ ] If its a core feature, I have added through test.
-- [ ] Do we need to implement analytics? 
-- [ ] Will this be part of a product update? If yes, please write one phrase about this update
-
-
 ## Seleccione el tipo de Pull Request.
 
 - [ ] [FIX] Corrección de errores: se usa principalmente en la versión estable pero también es válido si está corrigiendo un error reciente en la versión de desarrollo.
